@@ -1,0 +1,38 @@
+{
+    "Header": {
+        "description": "Um desenvolvedor preparado para os desafios",
+        "description2": "da sua empresa"
+    },
+    "Projects": {
+        "projects": "Projetos",
+        "noProjectsFound": "Nenhum projeto encontrado"
+    },
+    "OthersPortfolios": {
+        "othersPortfolios": "Outros Portfolios",
+        "accessMyProjects": "Acessar meus projetos em cada rede"
+    },
+    "ContactSection": {
+        "contact": "Contato",
+        "feelFreeToSendMeAMessage": "Sinta-se a vontade para me mandar uma mensagem referente a sua ideia"
+    },
+    "BudgetSection": {
+        "whatAreYouWaitingFor": "Está esperando o que?",
+        "makeABudgetWithoutCommitmentTotallyFree": "Faça um orçamento sem compromisso, totalmente gratuito"
+    },
+    "Footer": {
+        "rightsReserved": "Todos os direitos reservados"
+    },
+    "AboutSection": {
+        "aboutMe": "Sobre mim",
+        "aboutMeDescription": "Meu nome é Antônio Gabriel, apaixonado por tecnologia desde criança.",
+        "aboutMeDescription2": "Meu dever é desenvolver seu projeto de ponta a ponta, e é isso que faço de melhor. Me preocupo com que vou utilizar para construir seu projeto, para isso, estudo e atualizo as tecnologias que utilizo no dia a dia.",
+        "aboutMeDescription3": "Sendo desenvolvedor, meu maior papel é trazer a melhor solução a você. Atualmente, estou há 8 anos no mercado estudando e trabalhando profissionalmente para manter a melhor qualidade em meus serviços."
+    },
+    "seo": {
+        "title": "Antônio Gabriel - Desenvolvedor Full-Stack & UI/UX Designer",
+        "description": "Desenvolvedor Full-Stack e UI/UX Designer criando soluções web de alta performance. Contrate para desenvolvimento de sites, sistemas e mais. Fale comigo!",
+        "keywords": "Desenvolvedor Full-Stack, UI/UX Designer, Portfólio, Desenvolvimento Web, React, Next.js, Node.js, TypeScript, Sites, Sistemas, Programador",
+        "ogTitle": "Antônio Gabriel - Desenvolvedor Full-Stack & UI/UX Designer",
+        "ogDescription": "Transformo ideias em realidade com código e design. Veja meus projetos e entre em contato para criar sua solução web."
+    }
+}

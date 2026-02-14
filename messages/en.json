@@ -1,0 +1,38 @@
+{
+    "Header": {
+        "description": "A prepared developer for the challenges",
+        "description2": "of your company"
+    },
+    "Projects": {
+        "projects": "Projects",
+        "noProjectsFound": "No projects found"
+    },
+    "OthersPortfolios": {
+        "othersPortfolios": "Others Portfolios",
+        "accessMyProjects": "Access my projects on each network"
+    },
+    "ContactSection": {
+        "contact": "Contact",
+        "feelFreeToSendMeAMessage": "Feel free to send me a message regarding your idea"
+    },
+    "BudgetSection": {
+        "whatAreYouWaitingFor": "What are you waiting for?",
+        "makeABudgetWithoutCommitmentTotallyFree": "Make a budget without commitment, totally free"
+    },
+    "Footer": {
+        "rightsReserved": "All rights reserved"
+    },
+    "AboutSection": {
+        "aboutMe": "About Me",
+        "aboutMeDescription": "My name is Antônio Gabriel, passionate about technology since childhood.",
+        "aboutMeDescription2": "My duty is to develop your project from start to finish, and that's what I do best. I care about the technologies I use to build your project, so I study and update them daily.",
+        "aboutMeDescription3": "As a developer, my main role is to bring the best solution to you. Currently, I have been in the market for 8 years studying and working professionally to maintain the best quality in my services."
+    },
+    "seo": {
+        "title": "Gabriel - Full-Stack Developer & UI/UX Designer",
+        "description": "Full-Stack Developer and UI/UX Designer creating high-performance web solutions. Hire for website development, systems, and more. Contact me!",
+        "keywords": "Full-Stack Developer, UI/UX Designer, Portfolio, Web Development, React, Next.js, Node.js, TypeScript, Websites, Systems, Programmer",
+        "ogTitle": "Gabriel - Full-Stack Developer & UI/UX Designer",
+        "ogDescription": "I turn ideas into reality with code and design. See my projects and get in touch to create your web solution."
+    }
+}
